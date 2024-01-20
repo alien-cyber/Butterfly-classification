@@ -11,9 +11,9 @@ The goal of this project is to make a deep learning model which will classify th
 They are resnet,vgg,inception
 
 # What have I done?
-1.Downloading the dataset form kaggle and unzipping it
-2.Data viswalization
-3.Made three Classification model with
+-1.Downloading the dataset form kaggle and unzipping it
+-2.Data viswalization
+-3.Made three Classification model with
      *Resnet50
      *VGG16
      *InceptionV3
