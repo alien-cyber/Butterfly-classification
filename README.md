@@ -11,13 +11,13 @@ The goal of this project is to make a deep learning model which will classify th
 They are resnet,vgg,inception
 
 # What have I done?
--1.Downloading the dataset form kaggle and unzipping it
--2.Data viswalization
--3.Made three Classification model with
-     *Resnet50
-     *VGG16
-     *InceptionV3
-4.Observation:
+- 1.Downloading the dataset form kaggle and unzipping it
+- 2.Data viswalization
+- 3.Made three Classification model with
+     * Resnet50
+     * VGG16
+     * InceptionV3
+- 4.Observation:
 | Models | Resnet50 | VGG16 | InceptionV3 |
 | :---: | :---: | :---: | :---: |
 | Accuracy with training data | 0.988 | 0.989 |0.757 |
