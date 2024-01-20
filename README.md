@@ -18,6 +18,7 @@ They are resnet,vgg,inception
      * VGG16
      * InceptionV3
 - 4.Observation:
+
 | Models | Resnet50 | VGG16 | InceptionV3 |
 | :---: | :---: | :---: | :---: |
 | Accuracy with training data | 0.988 | 0.989 |0.757 |
